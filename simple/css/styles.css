@@ -1,0 +1,101 @@
+body{
+    font-family: 'Montserrat';
+}
+#nav-section{
+    color: #060606;
+    padding: 1% 2%;
+}
+
+#title {
+    background-color: #ffffff;
+    color: #14163e;
+    padding: 2% 10% 5%;
+}
+#feature-section{
+    background-color: #1abc9c;
+    color: #ffffff;
+    padding: 5%;
+}
+.f-content{
+    text-align: center;
+    
+}
+
+.heading-img{
+    width: 70%;
+    height: 80%;
+    margin-left: 20%;
+}
+
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Montserrat', sans-serif;
+}
+.big-heading{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    
+}
+.logo-img{
+    width: 60%;
+    height: 60%;
+}
+.learning-button{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 2%;
+}
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    padding-right: 30%;
+    
+}
+.pad-nav{
+    padding-bottom: 4.5rem;
+}
+.nav-item{
+    padding: 0 18px;
+    
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.row{
+    padding-top: 4.5rem;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+/* Provided */
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.price-text{
+    line-height: 1.5;
+}
+.section-heading{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+/* footer */
+.footer-sec{
+    margin-top:20%;
+}
+.footer {
+	padding: 5px;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: #1abc9c;
+}
+
+.footer p {
+	margin-top: 25px;
+	font-size: 12px;
+  color: #060606;
+}
